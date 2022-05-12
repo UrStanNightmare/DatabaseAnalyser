@@ -1,0 +1,22 @@
+{
+	"criterias": [
+		{
+			"lastName": "Ковалев"
+		},
+		{
+			"minTimes": 1,
+			"productName": "Яблоко"
+		
+		},
+		{
+			"maxExpenses": 10000,
+			"minExpenses": 0
+		},
+		{
+			"badCustomers": 3
+		},
+		{
+			"lastName": "Иванов"
+		}
+	]
+}
